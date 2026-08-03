@@ -55,7 +55,7 @@ body{
     z-index: 3;
 }
 .s1{
-    text-align: absolute;
+    text-align: relative;
     font-size: 60px;
     color: #ffffff;
     top: 50%;
