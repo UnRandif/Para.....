@@ -620,3 +620,11 @@ body{
     cursor: pointer;
     pointer-events: auto;
 }
+.pag4{
+    min-height: 100vh;
+
+    background-image: url("Cumple.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
